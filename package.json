@@ -1,0 +1,23 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perrymacdougall/postgres-stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perrymacdougall/postgres-stuff/issues"
+  },
+  "homepage": "https://github.com/perrymacdougall/postgres-stuff#readme",
+  "dependencies": {
+    "pg": "^7.11.0"
+  }
+}
